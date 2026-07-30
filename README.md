@@ -7,7 +7,7 @@ that turn messy, large-scale data into decisions.
 
 [LinkedIn](https://www.linkedin.com/in/getulio-cesar-de-leon-fernandez-05267a3b3/)
 
-#### Pinned
+#### Projects
 
 - **[big-data-msc-portfolio](https://github.com/deleongetulio/big-data-msc-portfolio)** - coursework portfolio: MongoDB, Neo4j, ML, inferential statistics, Spark/HDFS/Kafka.
 - **[obsidian-rag-brain](https://github.com/deleongetulio/obsidian-rag-brain)** - local RAG + maintenance scripts for a personal knowledge base.
