@@ -5,7 +5,7 @@ Dominican Republic, currently pursuing a Master's in Big Data Analysis and
 Visualization (UNIR). I build data pipelines, dashboards, and automation
 that turn messy, large-scale data into decisions.
 
-[Website](https://getuliodeleon.com/) - [LinkedIn](https://www.linkedin.com/in/getulio-cesar-de-leon-fernandez-05267a3b3/)
+[Website](https://getuliodeleon.com/) - [LinkedIn](https://www.linkedin.com/in/getuliodeleon/)
 
 #### Projects
 
