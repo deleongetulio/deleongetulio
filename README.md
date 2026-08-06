@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="Getulio Cesar De Leon Fernandez" src="assets/banner-light.png">
+</picture>
+
 ### Getulio Cesar De Leon Fernandez
 
 Economist working on national accounts data at the Central Bank of the
