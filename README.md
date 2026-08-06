@@ -4,7 +4,6 @@
   <img alt="Getulio Cesar De Leon Fernandez" src="assets/banner-light.png">
 </picture>
 
-### Getulio Cesar De Leon Fernandez
 
 Economist working on national accounts data at the Central Bank of the
 Dominican Republic, currently pursuing a Master's in Big Data Analysis and
